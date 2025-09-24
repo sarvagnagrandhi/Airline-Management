@@ -1,4 +1,4 @@
-# SkyConnect: Flight Booking System
+# AirVista: Flight Booking System
 
 ## Live Demo
 
